@@ -1,6 +1,6 @@
-<?php
 // ---------- Twitter API Function ------------
 // Query the Twitter API with a particular url
+<?php
 function queryTwitter($url) {
 $cURL = curl_init();
 curl_setopt($cURL, CURLOPT_URL, $url);

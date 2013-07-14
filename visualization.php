@@ -44,5 +44,3 @@ google.setOnLoadCallback(drawVisualization);
 <h1>Tweets over time</h1>
 <div id=”visualization” style=”width: 900px; height: 500px;”>
 </div>
-54
-XRDS • summer 2 
